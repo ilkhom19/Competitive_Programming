@@ -1,2 +1,2 @@
 # CompetitiveCoding
-My submittions to Competitive Programming problems 
+My submissions to Competitive Programming problems 
